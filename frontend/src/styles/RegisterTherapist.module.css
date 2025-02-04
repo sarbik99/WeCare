@@ -1,0 +1,39 @@
+.container {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .inputField {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    
+  }
+  
+  .submitButton {
+    width: 100%;
+    background: #4CAF50;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .submitButton:hover {
+    background: #45a049;
+  }
+  
